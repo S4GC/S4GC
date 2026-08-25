@@ -1,7 +1,4 @@
-Undergraduate Aerospace Engineering last year student at the University of Antioquia with a strong interest in combustion phenomena, magnetohydrodynamics, particularly in solar wind dynamics, and scientific computing. Proven capability in applying analytical and programming skills to academic and research environments, with a long-term goal of advancing a career in scientific research.
-
-Currently involved in an extracurricular project focused on the analysis and processing of solar wind data from the CELIAS instrument aboard the SOHO mission, with applications to solar sails through momentum and energy transfer. Additionally, working on a project focused on asteroid detection using computer vision, image processing techniques and images from the LASCO instrument on SOHO. Furthermore, I'm involved in research characterizing the stability and NOx emissions of partially premixed H2-NH3 blends in a swirl burner.
-
+Undergraduate Aerospace Engineering last year student at the University of Antioquia with a strong interest in combustion phenomena, magnetohydrodynamics, particularly in solar wind dynamics, and scientific computing. Proven capability in applying analytical and programming skills to academic and research environments, with a long-term goal of advancing a career in scientific research :)
 <!--
 **S4GC/S4GC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
