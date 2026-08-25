@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-🌙 Undergraduate Aerospace Engineering last year student at the University of Antioquia with a strong interest in combustion phenomena, magnetohydrodynamics, particularly in solar wind dynamics, and scientific computing.
+   🌙 Undergraduate Aerospace Engineering last year student at the University of Antioquia with a strong interest in combustion phenomena, magnetohydrodynamics, particularly in solar wind dynamics, and scientific computing.
 
-🌙 With a long-term goal of advancing a career in scientific research
+   🌙 With a long-term goal of advancing a career in scientific research
 
 ---
 
