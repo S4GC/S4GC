@@ -1,4 +1,4 @@
-# Hi there, I'm Santiago :)
+# Hii!, I'm Santiago :)
 
 <p align="center">
   <b>Undergraduate Aerospace Engineering Last Year Student @ University of Antioquia</b><br>
