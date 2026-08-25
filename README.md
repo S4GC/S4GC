@@ -17,6 +17,8 @@
 
    🌙 With a long-term goal of advancing a career in scientific research
 
+   🌙 I use Arch btw
+
 ---
 
 <p align="center">
