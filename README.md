@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/santiago-andr%C3%A9s-guam%C3%A1-chungan%C3%A1/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/santiago-andr%C3%A9s-guam%C3%A1-chungan%C3%A1/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
