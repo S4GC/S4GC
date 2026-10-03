@@ -20,13 +20,15 @@
    🌙 I use Arch btw
 
 ---
-
-<p align="center">
-  <i>"Always eager to collaborate on open-source scientific computing and research projects."</i>
-</p>
+>
 
 
 <!--
+<p align="center">
+  <i>"Always eager to collaborate on open-source scientific computing and research projects."</i>
+</p
+
+
 **S4GC/S4GC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
